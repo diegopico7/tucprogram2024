@@ -3179,3 +3179,7 @@ path {
   width: 100px;
   height: 100px;
 }
+
+.contenedor-descripcion-trabajo {
+  margin-top: 10px;
+}

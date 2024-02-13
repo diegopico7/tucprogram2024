@@ -2972,7 +2972,7 @@ a.active {
 }
 
 .etiquet-price p:after {
-  content: "/ handle";
+  content: "";
   margin-left: 5px;
   font-size: 15px;
   font-weight: 300;
@@ -3084,6 +3084,11 @@ a.active {
   justify-content: center !important;
   align-items: center !important;
 }
+.link-contacto-footer {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
 .descripcion-red {
   margin: 20px 0px;
   padding: 8px;
@@ -3168,4 +3173,9 @@ path {
 .link-t {
   color: #021116;
   background-color: #1fcac5;
+}
+
+.img-tecnologias {
+  width: 100px;
+  height: 100px;
 }

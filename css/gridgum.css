@@ -26,6 +26,7 @@
 }
 .social-networks a {
   display: block;
+  margin: 0px 5px;
   width: 31px;
   height: 31px;
   text-align: center;

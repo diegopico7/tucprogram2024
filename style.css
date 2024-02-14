@@ -2897,7 +2897,7 @@ a.active {
 .action {
   border: none;
   outline: none;
-  display: inline-block;
+  display: block;
   border-radius: 0.25rem;
   background-color: rgba(167, 139, 250, 1);
   padding-left: 1.25rem;
@@ -2908,6 +2908,7 @@ a.active {
   font-weight: 600;
   letter-spacing: 0.05em;
   color: rgba(17, 24, 39, 1);
+  margin: 0 auto;
 }
 
 /*diseño*/
